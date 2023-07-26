@@ -1,0 +1,84 @@
+{
+  "context": "Generate a resume for the user",
+  "user": {
+    "fullName": "John Doe",
+    "phoneNumber": "123456789",
+    "emailAddress": "johndoe@example.com",
+    "location": "New York",
+    "objective": "To obtain a software developer position",
+    "summary": "Experienced software developer with expertise in Java and Spring framework",
+    "education": [
+      {
+        "degree": "Bachelor of Science",
+        "institution": "University of XYZ",
+        "year": "2015"
+      },
+      {
+        "degree": "Master of Science",
+        "institution": "ABC University",
+        "year": "2017"
+      }
+    ],
+    "workExperience": [
+      {
+        "companyName": "XYZ Corporation",
+        "role": "Software Engineer",
+        "startDate": "2017-01-01",
+        "endDate": "2020-12-31"
+      },
+      {
+        "companyName": "ABC Inc.",
+        "role": "Senior Developer",
+        "startDate": "2021-01-01",
+        "endDate": null
+      }
+    ],
+    "skills": [
+      {
+        "name": "Java",
+        "proficiency": "Advanced"
+      },
+      {
+        "name": "Spring Framework",
+        "proficiency": "Intermediate"
+      }
+    ],
+    "projects": [
+      {
+        "name": "E-commerce Website",
+        "description": "Developed a fully functional e-commerce website using Java and Spring",
+        "url": "https://example.com/ecommerce"
+      }
+    ],
+    "certifications": [
+      {
+        "name": "Oracle Certified Java Developer",
+        "organization": "Oracle",
+        "year": "2016"
+      }
+    ],
+    "awards": [
+      {
+        "name": "Best Employee of the Year",
+        "issuer": "XYZ Corporation",
+        "year": "2019"
+      }
+    ],
+    "publications": [
+      {
+        "title": "Research Paper on Artificial Intelligence",
+        "authors": "John Doe, Jane Smith",
+        "year": "2022"
+      }
+    ],
+    "references": [
+      {
+        "name": "Jane Smith",
+        "designation": "Senior Manager",
+        "company": "ABC Inc.",
+        "phoneNumber": "987654321",
+        "emailAddress": "janesmith@example.com"
+      }
+    ]
+  }
+}
