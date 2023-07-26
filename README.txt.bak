@@ -1,5 +1,3 @@
-Written with https://github.com/NoyHanan. 
-
 Server requirements setup:
 - We use MongoDB Atlas (a hosted MongoDB service option in the cloud) which requires no installation overhead.
 - Add an OpenAI API key in the application.properties field.
